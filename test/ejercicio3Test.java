@@ -35,9 +35,9 @@ public class ejercicio3Test {
         String[] salidas = salida.split("\r\n");
         assertEquals("El doble de 15 es 30", salidas[0]);
         assertEquals("El triple de 15 es 45", salidas[1]);
-        // OPCIÓN 1 assertTrue(salida.contains("El doble de 15 es 30\r\n"));
+        // OPCIÓN 2: assertTrue(salida.contains("El doble de 15 es 30\r\n"));
         // assertTrue(salida.contains("El triple de 15 es 45\r\n"));
-        // OPCIÓN 2: assertEquals("El doble de 15 es 30\r\n", salida); //Para que reconozca los saltos de línea (el "ln" en los syso) se debe colocar \r\n dentro del comillado. Se incorpora también el assertTrue para considerar los dos print del programa
+        // OPCIÓN 3: assertEquals("El doble de 15 es 30\r\n", salida); //Para que reconozca los saltos de línea (el "ln" en los syso) se debe colocar \r\n dentro del comillado. Se incorpora también el assertTrue para considerar los dos print del programa
     }
     
     @Test

@@ -7,7 +7,7 @@
  Los presentes ejercicios se realizaron en lenguaje Java. Como Framework se utiliza JUnit 5 y se trabaja con Visual Studio Code como IDE.
 
  Los ejercicios 1-3, 5 : Se realizan a modo de tipeo conjunto en el programa Egg de automatización de testing
- Los ejercicios 4 : Se realizan a modo de práctica, las ideas son mías, utlizando guías y otras ayudas externas
+ Los ejercicios 4, 6 : Se realizan a modo de práctica, las ideas son mías, utlizando guías y otras ayudas externas
 
  Ante cualquier duda, puede comunicarse conmigo.
  

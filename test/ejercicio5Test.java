@@ -55,13 +55,13 @@ public class ejercicio5Test {
     
     @Test
     void testDuplicarNumero() {
-        Integer resultado = ejercicio5.duplicarNumero(2);
+        int resultado = ejercicio5.duplicarNumero(2);
         Assertions.assertEquals(4, resultado);
     }
 
     @Test
     void testTriplicarNumero() {
-        Integer resultado = ejercicio5.triplicarNumero(2);
+        int resultado = ejercicio5.triplicarNumero(2);
         Assertions.assertEquals(6, resultado);
     }
 
